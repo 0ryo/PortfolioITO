@@ -5,7 +5,7 @@ Babylon.jsで軽量かつ操作が容易な3Dエディタを作ろうとして�
 
 
 ## 使い方 (一般)
-1. デプロイ先のエディタにアクセス [リンク](https://photon-seven.vercel.app/editor/EditorPage)
+1. デプロイ先のエディタにアクセス [リンク](https://photon-seven.vercel.app/editor)
 
 
 ## 使い方 (開発)
